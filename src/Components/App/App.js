@@ -9,7 +9,7 @@ import { Container } from "./App.styled";
 
 class App extends Component {
   state = {
-    contacts,
+    contacts: [],
     filter: "",
   };
 
